@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+    
+
+.popup-content {
+    position: absolute;
+    margin: 20rem;
+    background-color: white;
+    padding: 20px;
+    display: none;
+}
+
+    </style>
+</head>
+<body>
+    <div class="popup-content" >
+        Contenido de la pantalla emergente
+      </div>
+      <button onclick="document.querySelector('.popup-content')
+      .style.display = 'block'; setTimeout(function(){ document.querySelector
+        ('.popup-content')
+      .style.display = 'none'; }, 1000);">Abrir pantalla emergente</button>
+      
+     
+</body>
+</html>
