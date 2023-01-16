@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sevencito07/firebase-login-react.git/static/css/main.1b73e74b.css",
+    "main.js": "/Sevencito07/firebase-login-react.git/static/js/main.c312eadc.js",
+    "index.html": "/Sevencito07/firebase-login-react.git/index.html",
+    "main.1b73e74b.css.map": "/Sevencito07/firebase-login-react.git/static/css/main.1b73e74b.css.map",
+    "main.c312eadc.js.map": "/Sevencito07/firebase-login-react.git/static/js/main.c312eadc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b73e74b.css",
+    "static/js/main.c312eadc.js"
+  ]
+}
